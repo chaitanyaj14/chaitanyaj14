@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 ## Projects
 
 ## Demos
+
+## Platforms
+Check out my [YouTube Channel](https://www.youtube.com/)
