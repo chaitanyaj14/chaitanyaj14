@@ -2,8 +2,8 @@
 
 I'm passionate about all things geospatial! From GIS to remote sensing, I love exploring the world through data. Here's a bit about what I do:
 
-🛠️ Currently, I'm working on my Python skills, especially in the context of geospatial analysis.
-🌍 I'm also diving into the world of geospatial programming, learning how to create interactive maps and spatial analyses.
+🛠️ Currently, I'm working on my Python skills, especially in the context of geospatial analysis.<br>
+🌍 I'm also diving into the world of geospatial programming, learning how to create interactive maps and spatial analyses.<br>
 💡 I'm always looking for new ways to apply geospatial technologies, so feel free to reach out if you have any interesting projects or ideas!
 
 ## 🧠 Machine & Deep Learning Enthusiast
