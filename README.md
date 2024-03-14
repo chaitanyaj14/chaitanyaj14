@@ -23,7 +23,7 @@ I'm passionate about all things geospatial! From GIS to remote sensing, I love e
 Check out my YouTube channel where I share tutorials and tips on geospatial programming: [Your YouTube Channel Name](https://www.youtube.com/)
 
 ## 📫 Get in Touch
-- LinkedIn: [Your LinkedIn Profile]([link-to-linkedin](https://www.linkedin.com/in/chaitanyaj14/))
+- LinkedIn: [Your LinkedIn Profile]((https://www.linkedin.com/in/chaitanyaj14/))
 - Email: [Your Email Address](mailto:)
 
 
