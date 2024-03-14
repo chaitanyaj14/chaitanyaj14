@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Chaitanya Joshi
+# Hi there! 👋 I'm Chaitanya
 
 I'm passionate about all things geospatial! From GIS to remote sensing, I love exploring the world through data. Here's a bit about what I do:
 
