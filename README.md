@@ -24,6 +24,7 @@ Check out my YouTube channel where I share tutorials and tips on geospatial prog
 
 ## 📫 Get in Touch
 - LinkedIn: [https://www.linkedin.com/in/chaitanyaj14/](https://www.linkedin.com/in/chaitanyaj14/)
+- Portfolio: [https://chaitanyaj14.github.io/](https://chaitanyaj14.github.io/)
 - Email: [Your Email Address](mailto:)
 
 
