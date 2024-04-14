@@ -2,9 +2,8 @@
 
 I'm passionate about all things geospatial! From GIS to remote sensing, I love exploring the world through data. Here's a bit about what I do:
 
-🛠️ Currently, I'm working on my Python skills, especially in the context of geospatial analysis.<br>
-🌍 I'm also diving into the world of geospatial programming, learning how to create interactive maps and spatial analyses.<br>
-💡 I'm always looking for new ways to apply geospatial technologies, so feel free to reach out if you have any interesting projects or ideas!<br>
+🛠️ Currently, I'm engrossed in developing new Python packages for geospatial, remote sensing, and machine learning applications.<br>
+🌍 I'm always looking for new ways to apply geospatial technologies, so feel free to reach out if you have any interesting projects or ideas!<br>
 🧠 I'm a machine & deep learning enthusiast. I'm fascinated by the potential of machine and deep learning in the geospatial domain. I've co-authored a paper on Deep Learning in remote sensing, which was published in IEEE Geoscience and Remote Sensing Letters!
 
 ## 🔧 Technologies & Tools
