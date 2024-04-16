@@ -19,13 +19,13 @@ I'm passionate about all things geospatial! From GIS to remote sensing, I love e
 - [Blog Post 3 Title](link-to-post3) - Brief description or excerpt.
 
 ## 📹 YouTube Channel
-Check out my YouTube channel where I share tutorials and tips on geospatial programming: [Your YouTube Channel Name](https://www.youtube.com/)
+Check out my YouTube channel where I share tutorials and tips on geospatial programming: [YouTube Channel Name](https://www.youtube.com/@TheGeospatialCoder)
 
 ## 📫 Get in Touch
 - LinkedIn: [https://www.linkedin.com/in/chaitanyaj14/](https://www.linkedin.com/in/chaitanyaj14/)
 - Portfolio: [https://chaitanyaj14.github.io/](https://chaitanyaj14.github.io/)
-- Email: [Your Email Address](mailto:)
+- Email: [Email Address](mailto:)
 
 
 ## Platforms
-Check out my [YouTube Channel](https://www.youtube.com/)
+Check out my [YouTube Channel](https://www.youtube.com/@TheGeospatialCoder)
