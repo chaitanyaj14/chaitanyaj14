@@ -12,6 +12,10 @@ Curious about technology and fascinated by what we can build with it.
 ### 🌱 Currently
 Exploring, experimenting, and learning - with a focus on turning curiosity into something tangible.
 
+### 🌐 Find me elsewhere
+- 💼 [LinkedIn](https://www.linkedin.com/in/chaitanyaj14/)
+- 👤 [Bio]()
+
 ---
 
 *Stay curious. Keep building.* 🚀
