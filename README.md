@@ -14,7 +14,7 @@ Exploring, experimenting, and learning - with a focus on turning curiosity into 
 
 ### 🌐 Find me elsewhere
 - 💼 [LinkedIn](https://www.linkedin.com/in/chaitanyaj14/)
-- 👤 [Bio]()
+- 👤 [Bio](https://chaitanyaj14.github.io/)
 
 ---
 
